@@ -1,3 +1,0 @@
-# Demo
-
-Life is Good
